@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to bottom, blue, green);
+    height: 100vh;
+}
+.p1{
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-style: italic;
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px black;
+
+
+}
+
+.p2{
+
+    color:rgba(255, 0, 0, 50); 
+}
